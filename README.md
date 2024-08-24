@@ -1,2 +1,3 @@
-# devops-netology
-update
+### Инструкция
+
+В файле .gitignore указано игнорировать файлы с расширениями *.log и *.conf
